@@ -1,2 +1,3 @@
-model_checkpoint_path: "my_flower_model"
-all_model_checkpoint_paths: "my_flower_model"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da032ff7929db7624488a7bb1cfde05616a8c9e0b3cdef9c2deaa982cb0df49
+size 87
